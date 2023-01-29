@@ -1,6 +1,6 @@
 // 1. What does the following code return? 
 
-new Set([1,1,2,2,3,4])
+new Set([1,1,2,2,3,4]) // {1,2,3,4}
 
 //2. What does the following code return? 
 
